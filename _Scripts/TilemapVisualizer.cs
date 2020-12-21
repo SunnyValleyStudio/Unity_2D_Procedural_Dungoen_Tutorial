@@ -24,7 +24,7 @@ public class TilemapVisualizer : MonoBehaviour
         }
     }
 
-    internal void PaintSingleBasicWall(Vector2Int position)
+    internal void PaintSingleBasicWall(Vector2Int position, string binaryType)
     {
         PaintSingleTile(wallTilemap, wallTop, position);
     }
@@ -39,5 +39,10 @@ public class TilemapVisualizer : MonoBehaviour
     {
         floorTilemap.ClearAllTiles();
         wallTilemap.ClearAllTiles();
+    }
+
+    internal void PaintSingleCornerWall(Vector2Int position, string neighboursBinaryType)
+    {
+        
     }
 }
