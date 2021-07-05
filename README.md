@@ -1,5 +1,5 @@
 # Unity_2D_Proecdural_Dungoen_Tutorial
-[![Tutorial](http://img.youtube.com/vi/-QOCX6SVFsk/default.jpg)](https://youtu.be/-QOCX6SVFsk)
+[![Tutorial](http://img.youtube.com/vi/-QOCX6SVFsk/hqdefault.jpg)](https://youtu.be/-QOCX6SVFsk)
 
 <p> Using Random Wlak and Binary Space partitioning to create a 2D procedural dungeon in Unity 2020
 
